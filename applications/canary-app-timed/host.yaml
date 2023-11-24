@@ -9,4 +9,5 @@ spec:
   # Allow HTTP port to be used as is
   requestPolicy:
     insecure:
-      action: Route
+      action: Route # Route
+
